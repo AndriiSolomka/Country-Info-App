@@ -7,14 +7,19 @@
    ```bash
    git clone https://github.com/AndriiSolomka/Country-Info-App.git
 
-2. **Install dependencies:**
+2. **Open project:**
+
+   ```bash
+  cd Country-Info-App.git
+
+3. **Install dependencies:**
 
    ```bash
    npm install
    
-3. **Copy the .env.example file to .env**
+4. **Copy the .env.example file to .env**
 
-4. Run Docker
+5. Run Docker
    
    ```bash
    docker-compose up --build
