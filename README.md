@@ -10,7 +10,7 @@
 2. **Open project:**
 
    ```bash
-  cd Country-Info-App.git
+   cd Country-Info-App.git
 
 3. **Install dependencies:**
 
